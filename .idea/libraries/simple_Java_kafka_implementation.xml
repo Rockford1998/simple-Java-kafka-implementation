@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="simple-Java-kafka-implementation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cab-booking-driver.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cab-booking-user.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
